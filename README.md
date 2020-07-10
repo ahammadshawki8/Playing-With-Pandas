@@ -7,8 +7,7 @@ After learning the stuffs in this repository, coders will have a basic knowledge
 
 The official documentation - https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
 
-Book:
-
+Books:
   Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython (Wes McKinney) 
   https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662
   
