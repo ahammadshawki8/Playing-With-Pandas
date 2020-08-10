@@ -5,7 +5,7 @@ pandas is a software library written for the Python programming language for dat
 After learning the stuffs in this repository, coders will have a basic knowledge about data analyzing in Pandas. They will also learn how to analyze real world data which will be very helpful for their project.
 
 
-# _Materials that help me to learn data analysis in pandas:_
+# _Materials that helped me to learn data analysis in Pandas:_
 
 * The official documentation - https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
 
